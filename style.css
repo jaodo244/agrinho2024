@@ -1,0 +1,20 @@
+body{
+    
+    background-color: rgb(179, 0, 255);
+
+}
+
+.cabecalho{
+
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+
+
+
+
+
+
+
+}
